@@ -20,10 +20,16 @@ Method 2:
     5.	In Admin panel go to application tab and find cutefilebrowser component
     6.	Click on Activate Link. 
 	
+    
+    
 How to use:
 
+Upload files:
+-------------
 Upload files by FTP in /component/cutefilebrowser/files/
 
+Browse Files:
+-------------
 Browse the files like : www.example.com/cutefilebrowser
 
 User will be able to browse and download files only.
